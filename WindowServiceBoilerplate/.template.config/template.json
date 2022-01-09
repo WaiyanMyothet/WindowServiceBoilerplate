@@ -1,0 +1,11 @@
+﻿{
+  "author": "Waiyan Myothet <waiyanmyothet.4313@gmail.com>",
+  "classifications": [ "Console","Window Service","Topshelf","Quartz" ,"Boilerplate"],
+  "name": "Window service application using Topshelf and Quartz with Dependency Injection and Logging",
+  "tags": {
+    "language": "C#"
+  },
+  "identity": "WindowServiceBoilerplate",
+  "shortName": "windowserviceboilerplate",
+  "sourceName": "WindowServiceBoilerplate"
+}
