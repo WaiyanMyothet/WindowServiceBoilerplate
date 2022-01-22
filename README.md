@@ -1,3 +1,6 @@
+[![](https://img.shields.io/nuget/v/WindowServiceBoilerplate.svg)](https://www.nuget.org/packages/WindowServiceBoilerplate/)
+[![](https://img.shields.io/nuget/dt/WindowServiceBoilerplate.svg)](https://www.nuget.org/packages/WindowServiceBoilerplate/)
+
 # WindowServiceBoilerplate
 Window Service App Using Topshelf and Quartz with DependencyInjection and NLog
 # Nuget
